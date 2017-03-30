@@ -1,5 +1,4 @@
 /*
-
 * Program zapisuje nazwiska i PESEL pacjentów, następnie jest w stanie wyświetlić
 * je na ekranie.
 *
